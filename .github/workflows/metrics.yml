@@ -15,8 +15,6 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_GIST_TOKEN }}
-          user: JackDevAU
-          template: classic
           base: header
           config_order: base.header, isocalendar, languages, achievements
           output_action: gist
