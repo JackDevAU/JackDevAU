@@ -15,10 +15,9 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_GIST_TOKEN }}
+          template: classic
           base: header
           config_order: base.header, isocalendar, languages, achievements
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           config_timezone: Australia/Brisbane
           plugin_achievements: yes
           plugin_achievements_display: compact
