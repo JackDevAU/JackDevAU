@@ -4,7 +4,7 @@
   
 💻 I work at [SSW](https://www.ssw.com.au/people/jack-pettit) <br />
 👀 I’m interested in... Anything C# or ~~JavaScript~~ Typescript related <br />
-👨‍🎓 I'm currently learning Rust 🦀, Go and this weeks new React Framework 😅 - SolidJS 
+👨‍🎓 I'm currently learning Rust 🦀, Go and this weeks new JavaScript Framework 😅 - [SolidJS](https://github.com/solidjs/solid)
   
  </div>
 
