@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Jack
- - I work at [SSW](https://ssw.com.au)
-- 👀 I’m interested in React, .Net Core, NextJs, Angular, NestJs, R, Rust🦀
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
