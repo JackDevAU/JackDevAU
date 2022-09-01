@@ -13,8 +13,8 @@
 
 <a href="https://github.com/JackDevAU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JackDevAU&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDevAU&theme=github_dark&layout=compact" 
-    alt="JackDevAU's GitHub Top Languages" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDevAU&theme=github_dark&layout=compact" 
+    alt="JackDevAU's GitHub Top Languages" /> -->
 </a>
 
 <!-- [<img width="100%" alt="Metrics" src="/general.svg">](#) -->
