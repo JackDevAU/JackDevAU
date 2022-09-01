@@ -8,9 +8,18 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@SSWJackPettit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SSWJackPettit)](https://twitter.com/SSWJackPettit)
 [![Linkedin Badge](https://img.shields.io/badge/-JackPettit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-pettit-52a916176/)](https://www.linkedin.com/in/jack-pettit-52a916176/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJackDevAU%2FJackDevAU&count_bg=%23CC4141&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) 
+
   
+  <hr />
+
+<a href="https://github.com/JackDevAU">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JackDevAU&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDevAU&theme=github_dark" 
+    alt="JackDevAU's GitHub Top Languages" />
+</a>
+
  </div>
 
-[<img width="100%" alt="Metrics" src="/general.svg">](#)
+
+<!-- [<img width="100%" alt="Metrics" src="/general.svg">](#) -->
 
