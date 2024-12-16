@@ -1,21 +1,38 @@
-<h1 align="center">👋 Hi, I’m Jack</h1>
+<h1 align="center">👋 Hi, I’m Jack Pettit</h1>
 
-<p align="center">
-  
-💻 I work at [SSW](https://www.ssw.com.au/people/jack-pettit) <br />
-👀 I’m interested in... Anything C# or ~~JavaScript~~ Typescript related <br />
-👨‍🎓 I'm currently learning Rust 🦀, Go and this weeks new JavaScript Framework 😅 - [SolidJS](https://github.com/solidjs/solid)
 
-[![Twitter Badge](https://img.shields.io/badge/-@SSWJackPettit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SSWJackPettit)](https://twitter.com/SSWJackPettit)
-[![Linkedin Badge](https://img.shields.io/badge/-JackPettit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-pettit-52a916176/)](https://www.linkedin.com/in/jack-pettit-52a916176/)
+- 💻 Software Engineer at (https://www.ssw.com.au/people/jack-pettit)[SSW]
+- 🌟 Specializing in frontend development with **React** and **TypeScript**, and backend development with **.NET**
+- 🚀 Dedicated to building tools that solve real-world problems and improve productivity
 
-</p>
 
+
+### 🔧 What I Work On
+- **Frontend**: Next.js, React, Shadcn UI, TailwindCSS
+- **Backend**: .NET (C#), RESTful APIs, Clean Architecture
+- **DevOps**: GitHub Actions, Azure Services, CI/CD
+- **Tooling**: Improving developer workflows with modern tools and techniques
+
+
+### 🛠 Tools I've Built
+- [**Node.js Compatibility Checker**](https://npm-nodecheck.vercel.app/): A web tool to check Node LTS version compatibility for npm packages
+
+
+### 📊 GitHub Stats
 <a href="https://github.com/JackDevAU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JackDevAU&show_icons=true&theme=github_dark&count_private=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDevAU&theme=github_dark&layout=compact" 
-    alt="JackDevAU's GitHub Top Languages" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDevAU&theme=github_dark&layout=compact" 
+    alt="JackDevAU's GitHub Top Languages" />
 </a>
 
-<!-- [<img width="100%" alt="Metrics" src="/general.svg">](#) -->
-
+<p align="center">
+  <a href="https://twitter.com/SSWJackPettit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/jack-pettit-52a916176/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://pettit.info" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2334A853.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
