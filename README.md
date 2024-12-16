@@ -2,6 +2,7 @@
 
 
 - 💻 Software Engineer at [SSW](https://www.ssw.com.au/people/jack-pettit)
+- 🦙 Maintainer of [**TinaCMS**](https://github.com/tinacms/tinacms), an open-source headless CMS 
 - 🌟 Specializing in frontend development with **React** and **TypeScript**, and backend development with **.NET**
 - 🚀 Dedicated to building tools that solve real-world problems and improve productivity
 
