@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I’m Jack Pettit</h1>
-
+# 👋 Hi, I’m Jack Pettit [<img src="https://img.shields.io/twitter/url?label=%40SSWJackPettit&style=social&url=https%3A%2F%2Ftwitter.com%2FSSWJackPettit" height="20" align="right">](https://twitter.com/SSWJackPettit) [<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="20" align="right">](https://www.linkedin.com/in/jack-pettit-52a916176/) [<img src="https://img.shields.io/badge/Website-%2334A853.svg?style=flat-square&logo=google-chrome&logoColor=white" height="20" align="right">](https://pettit.info)
 
 - 💻 Software Engineer at [SSW](https://www.ssw.com.au/people/jack-pettit)
 - 🦙 Maintainer of [**TinaCMS**](https://github.com/tinacms/tinacms), an open-source headless CMS 
@@ -26,14 +25,3 @@
     alt="JackDevAU's GitHub Top Languages" />
 </a>
 
-<p align="center">
-  <a href="https://twitter.com/SSWJackPettit" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/jack-pettit-52a916176/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://pettit.info" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%2334A853.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</p>
