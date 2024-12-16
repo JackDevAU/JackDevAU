@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Jack Pettit</h1>
 
 
-- 💻 Software Engineer at (https://www.ssw.com.au/people/jack-pettit)[SSW]
+- 💻 Software Engineer at [SSW](https://www.ssw.com.au/people/jack-pettit)
 - 🌟 Specializing in frontend development with **React** and **TypeScript**, and backend development with **.NET**
 - 🚀 Dedicated to building tools that solve real-world problems and improve productivity
 
