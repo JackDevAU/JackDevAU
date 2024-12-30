@@ -16,6 +16,7 @@
 
 ### 🛠 Tools I've Built
 - [**Node.js Compatibility Checker**](https://npm-nodecheck.vercel.app/): A web tool to check Node LTS version compatibility for npm packages
+- [**FavMoji**](https://fav-moji.vercel.app/): Generate Emoji Favicons and SEO Files Instantly
 
 
 ### 📊 GitHub Stats
