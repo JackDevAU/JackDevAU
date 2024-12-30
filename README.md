@@ -11,7 +11,7 @@
 - **Frontend**: Next.js, React, Shadcn UI, TailwindCSS
 - **Backend**: .NET (C#), RESTful APIs, Clean Architecture
 - **DevOps**: GitHub Actions, Azure Services, CI/CD
-- **Tooling**: Improving developer workflows with modern tools and techniques
+- **Tooling**: VSCode (Maybe vim soon™) & Rider for C#
 
 
 ### 🛠 Tools I've Built
