@@ -5,7 +5,7 @@
 - 🌟 Specializing in frontend development with **React** and **TypeScript**, and backend development with **.NET**
 
 
-### 🔧 What I Work On
+### 🔧 Skills & Technologies
 - **Frontend**: Next.js, React, Shadcn UI, TailwindCSS
 - **Backend**: .NET (C#), RESTful APIs, Clean Architecture
 - **DevOps**: GitHub Actions, Azure Services
