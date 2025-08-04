@@ -3,14 +3,12 @@
 - 💻 Software Engineer at [SSW](https://www.ssw.com.au/people/jack-pettit)
 - 🦙 Maintainer of [**TinaCMS**](https://github.com/tinacms/tinacms), an open-source headless CMS 
 - 🌟 Specializing in frontend development with **React** and **TypeScript**, and backend development with **.NET**
-- 🚀 Dedicated to building tools that solve real-world problems and improve productivity
-
 
 
 ### 🔧 What I Work On
 - **Frontend**: Next.js, React, Shadcn UI, TailwindCSS
 - **Backend**: .NET (C#), RESTful APIs, Clean Architecture
-- **DevOps**: GitHub Actions, Azure Services, CI/CD
+- **DevOps**: GitHub Actions, Azure Services
 - **Tooling**: VSCode (Maybe vim soon™) & Rider for C#
 
 
